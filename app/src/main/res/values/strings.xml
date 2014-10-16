@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AMT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="usage_added_label">Email Usage</string>
+    <string name="usage_title_label">Item</string>
+    <string name="usage_hint">Add Usage Here</string>
+    <string name="usage_date_label">Date Added</string>
+    <string name="date_picker_title">Date of Usage Submitted</string>
+    <string name="usage_added">Usage Added</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="new_usage">Add Usage</string>
+    <string name="usage_lot_label">LOT NUMBER</string>
+    <string name="usage_item_label">ITEM NUMBER</string>
+    <string name="usage_email_label">EMAIL USAGE</string>
+    <string name="email_usage_label">EMAIL USAGE</string>
+    <string name="delete_usage">Delete</string>
+
+</resources>
